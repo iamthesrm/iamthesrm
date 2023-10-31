@@ -4,8 +4,8 @@
 
 My Project
 
-- hi
-- hello
+- 🥅 2023 Goals: 
+- 🥅 2024 Goals: 
 
 ### ⚡GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamthesrm&show_icons=true&theme=nightowl)](https://github.com/iamthesrm/github-readme-stats)
