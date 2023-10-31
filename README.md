@@ -3,7 +3,7 @@
 
 | from 🏠 | in 📍 | likes flowers 💐 | likes rain ☔ | what I listen to while zoning out irl 🎵 |
 |----------|:-------------:|---------:|---------:|---------:|
-| Netrakona, Bangladesh|Bashudhara,Dhaka |very much| too much for my own good| [my musical children](https://open.spotify.com/user/21vqey65jhjiyu5kgcpikybwq) |
+| Netrakona, Bangladesh|Bashundhara, Dhaka  |immensely| too much for my own good| [my musical culture](https://www.youtube.com/channel/UC4dSKoFTwSn7_YPDaFI8fPg) |
 
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals:
