@@ -1,8 +1,5 @@
 ### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web👋
-
 ### <h1>I am being a Learner, Problem Solver & Traveller😄</h1>
-
-* * *
 
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals:
