@@ -1,6 +1,6 @@
 ### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web 👋
 
-### <h3 align="center">fuck you</h3>
+### <h1 align="center">I am a Learner, Competitive Programmer & Traveller</h1>
 
 * * *
 
