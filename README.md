@@ -2,7 +2,7 @@
 
 ### I am
 
-___
+<hr style="border: 0; border-top: 1px solid #555;">
 
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals: 
