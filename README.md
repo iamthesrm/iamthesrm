@@ -1,10 +1,15 @@
 ### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web👋
-### <h1>I am being a Learner, Problem Solver & Traveller😄</h1>
+### <h1>I am being a Learner, Problem Solver & Traveller</h1>
 
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fsdfasdf&label=Profile%20views&color=0e75b6&style=flat" alt="fsdfasdf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fsdfasdf" alt="fsdfasdf" /></a> </p>
+
 ### Get In Touch:
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthesrm&label=Profile%20views&color=0e75b6&style=flat" alt="iamthesrm" /> </p>
 
 ### Languages and Tools:
