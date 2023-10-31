@@ -1,11 +1,14 @@
 ### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web 👋
 
-### I am
+### <h3 align="center">fuck you</h3>
 
 * * *
 
 - 🥅 2023 Goals: 
-- 🥅 2024 Goals: 
+- 🥅 2024 Goals:
+
+### Get In Touch:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthesrm&label=Profile%20views&color=0e75b6&style=flat" alt="iamthesrm" /> </p>
 
 ### Languages and Tools:
 
