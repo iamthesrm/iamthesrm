@@ -1,6 +1,6 @@
-### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web 👋
+### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web👋
 
-### <h1 align="center">I am a Learner, Competitive Programmer & Traveller</h1>
+### <h1>I am a Learner, Competitive Programmer & Traveller</h1>
 
 * * *
 
