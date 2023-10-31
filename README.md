@@ -1,6 +1,9 @@
 ### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web 👋
 ### <h1>I am being a Learner, Problem Solver & Traveller</h1>
 
+| from 🏠 | in 📍 | likes flowers 💐 | likes rain ☔ | what I listen to while zoning out irl 🎵 |
+|----------|:-------------:|---------:|---------:|---------:|
+| Netrakona, Bangladesh|Bashudhara,Dhaka |very much| too much for my own good| [my musical children](https://open.spotify.com/user/21vqey65jhjiyu5kgcpikybwq) |
 
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals:
