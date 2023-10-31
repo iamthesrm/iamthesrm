@@ -1,8 +1,8 @@
 ### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web 👋
 
-### I am 
+### I am
 
-My Project
+---
 
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals: 
