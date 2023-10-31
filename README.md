@@ -21,33 +21,38 @@
       margin: 10px;
       border-radius: 5px;
     }
+
+    .column-header {
+      font-weight: bold;
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <div class="column">
-      <h3>Column 1</h3>
-      <p>Content for column 1.</p>
+      <p class="column-header">From</p>
+      <p>Location 1</p>
     </div>
     <div class="column">
-      <h3>Column 2</h3>
-      <p>Content for column 2.</p>
+      <p class="column-header">Lives in</p>
+      <p>Location 2</p>
     </div>
     <div class="column">
-      <h3>Column 3</h3>
-      <p>Content for column 3.</p>
+      <p class="column-header">Works at</p>
+      <p>Company 1</p>
     </div>
     <div class="column">
-      <h3>Column 4</h3>
-      <p>Content for column 4.</p>
+      <p class="column-header">Studied at</p>
+      <p>School 1</p>
     </div>
     <div class="column">
-      <h3>Column 5</h3>
-      <p>Content for column 5.</p>
+      <p class="column-header">Followers</p>
+      <p>1000+</p>
     </div>
   </div>
 </body>
 </html>
+
 
 
 - 🥅 2023 Goals: 
