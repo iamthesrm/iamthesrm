@@ -1,58 +1,10 @@
 ### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web 👋
 ### <h1>I am being a Learner, Problem Solver & Traveller</h1>
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| Column 1 |      Column 2 |      Column 3 |      Column 4 |      Column 5 |
 |----------|----------|----------|----------|----------|
 | Content  | Content  | Content  | Content  | Content  |
 | Content  | Content  | Content  | Content  | Content  |
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .container {
-      display: flex;
-    }
-
-    .column {
-      flex: 1;
-      padding: 20px;
-      border: 1px solid #e1e4e8;
-      margin: 10px;
-      border-radius: 5px;
-    }
-
-    .column-header {
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="column">
-      <p class="column-header">From</p>
-      <p>Location 1</p>
-    </div>
-    <div class="column">
-      <p class="column-header">Lives in</p>
-      <p>Location 2</p>
-    </div>
-    <div class="column">
-      <p class="column-header">Works at</p>
-      <p>Company 1</p>
-    </div>
-    <div class="column">
-      <p class="column-header">Studied at</p>
-      <p>School 1</p>
-    </div>
-    <div class="column">
-      <p class="column-header">Followers</p>
-      <p>1000+</p>
-    </div>
-  </div>
-</body>
-</html>
-
 
 
 - 🥅 2023 Goals: 
