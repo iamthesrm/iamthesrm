@@ -6,6 +6,50 @@
 | Content  | Content  | Content  | Content  | Content  |
 | Content  | Content  | Content  | Content  | Content  |
 
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .container {
+      display: flex;
+    }
+
+    .column {
+      flex: 1;
+      padding: 20px;
+      border: 1px solid #e1e4e8;
+      margin: 10px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="column">
+      <h3>Column 1</h3>
+      <p>Content for column 1.</p>
+    </div>
+    <div class="column">
+      <h3>Column 2</h3>
+      <p>Content for column 2.</p>
+    </div>
+    <div class="column">
+      <h3>Column 3</h3>
+      <p>Content for column 3.</p>
+    </div>
+    <div class="column">
+      <h3>Column 4</h3>
+      <p>Content for column 4.</p>
+    </div>
+    <div class="column">
+      <h3>Column 5</h3>
+      <p>Content for column 5.</p>
+    </div>
+  </div>
+</body>
+</html>
+
+
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals:
 
