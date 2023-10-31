@@ -1,47 +1,10 @@
 ### Hi! I am @𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪 across the web 👋
 ### <h1>I am being a Learner, Problem Solver & Traveller</h1>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
-
-    .column {
-      width: 19%;
-      margin: 1%;
-      padding: 1%;
-      background-color: #f0f0f0;
-      border: 1px solid #e0e0e0;
-      border-radius: 5px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="column">
-      <p>Column 1</p>
-    </div>
-    <div class="column">
-      <p>Column 2</p>
-    </div>
-    <div class="column">
-      <p>Column 3</p>
-    </div>
-    <div class="column">
-      <p>Column 4</p>
-    </div>
-    <div class="column">
-      <p>Column 5</p>
-    </div>
-  </div>
-</body>
-</html>
-
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+|----------|----------|----------|----------|----------|
+| Content  | Content  | Content  | Content  | Content  |
+| Content  | Content  | Content  | Content  | Content  |
 
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals:
