@@ -1,9 +1,9 @@
 ### Hi! I am `@𝔦𝔞𝔪𝔱𝔥𝔢𝔰𝔯𝔪` across the web 👋
 ### <h1>I am being a Learner, Problem Solver & Traveller</h1>
 
-| from 🏠 | in 📍 | likes flowers 💐 | likes rain ☔ | what I listen to while zoning out irl 🎵 |
+| from 🏠 | in 📍 | likes animal 🐼 | likes rain ☔ | what I listen to while zoning out irl 🎵 |
 |----------|:-------------:|---------:|---------:|---------:|
-| Netrakona, Bangladesh|Bashundhara, Dhaka  |immensely| too much for my own good| [my musical culture](https://www.youtube.com/channel/UC4dSKoFTwSn7_YPDaFI8fPg) |
+| Netrakona, Bangladesh|Bashundhara, Dhaka  |immensely| To my own detriment, it's too much| [my musical culture](https://www.youtube.com/channel/UC4dSKoFTwSn7_YPDaFI8fPg) |
 
 - 🥅 2023 Goals: 
 - 🥅 2024 Goals:
