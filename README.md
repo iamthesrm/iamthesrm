@@ -5,8 +5,8 @@
 |----------|:-------------:|---------:|---------:|---------:|
 | Netrakona, Bangladesh|Bashundhara, Dhaka  |immensely| To my own detriment, it's too much| [my musical culture](https://www.youtube.com/channel/UC4dSKoFTwSn7_YPDaFI8fPg) |
 
-- 🥅 2023 Goals: 
-- 🥅 2024 Goals: To solve 2000+ problems & participate Dhaka ICPC Regional
+- 🥅 2023 Goals: To reach 100 wpm and learn basic Japanese
+- 🥅 2024 Goals: To solve 1500+ problems & participate Dhaka ICPC Regional
 
 
 ### Get In Touch:
