@@ -5,7 +5,7 @@
 |----------|:-------------:|---------:|---------:|---------:|
 | Netrakona, Bangladesh|Bashundhara, Dhaka  |immensely| To my own detriment, it's too much| [my musical culture](https://www.youtube.com/channel/UC4dSKoFTwSn7_YPDaFI8fPg) |
 
-- 🥅 2023 Goals: To reach 100 wpm and pass JLPT N5
+- 🥅 2023 Goals: To reach an average of 100 wpm (Done)
 - 🥅 2024 Goals: To solve 1500+ problems & participate Dhaka ICPC Regional
 
 
