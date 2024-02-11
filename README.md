@@ -7,7 +7,7 @@
 
 - 🥅 2023 Goals: To reach an average of 100 wpm (Done)
 - 🥅 2024 Goals: To solve 1500+ problems & participate Dhaka ICPC Regional
-  * To reach an average of 180 wpm
+  * To reach an average of 160 wpm
   * Explore Basic Frontend with RL Project
 
 
